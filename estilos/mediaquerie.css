@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+@media screen and (max-width:1200px) {
+    header > div{
+        justify-content: center;
+        padding: 20px 0px 0px 0px;
+    }
+    .Titulo_1{
+        font-size: 40px;
+    }
+    .fa-gear{
+        font-size: 40px;
+    }
+    .navegacao{
+        display: flex;
+        justify-content: center;
+    }
+    .Lista_nav{
+        margin-left: 0px;
+        width: 400px;
+        padding: 10px;
+    }
+    .itens_nav{
+        font-size: 10px;
+    }
+
+    .titulo_2{
+        font-size: 25px;
+    }
+    .paragrafo_1{
+        padding: 0px 90px 30px 90px;
+    }
+
+    .Secao_2{
+        flex-wrap: wrap;
+        padding: 0px 500px 50px 500px;
+    }
+
+    figure{
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 0px 500px 50px 500px;
+    }
+
+    .Secao_3{
+        flex-wrap: wrap;
+    }
+
+    .Secao_4{
+        flex-wrap: wrap;
+    }
+}
