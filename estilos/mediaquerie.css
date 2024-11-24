@@ -113,3 +113,57 @@
         padding: 10px;
     }
 }
+
+@media screen and (max-width:1000px){
+    .Lista_Simbolos{
+        padding: 20px 450px 50px 450px;
+    }
+    .Lista_nav{
+        margin-left: 0px;
+        width: 360px;
+        padding: 10px;
+    }
+    .fa-gavel{
+        font-size: 15px;
+        color: white;
+        padding: 20px;
+        flex-shrink: 1;
+
+    }
+    .fa-random{
+        font-size: 15px;
+        color: white;
+        padding: 20px;
+        flex-shrink: 1;
+    }
+    .fa-key{
+        font-size: 15px;
+        color: white;
+        padding: 20px;
+        flex-shrink: 1;
+    }
+    .fa-wrench{
+        font-size: 15px;
+        color: white;
+        padding: 20px;
+        flex-shrink: 1;
+    }
+    .fa-scissors{
+        font-size: 15px;
+        color: white;
+        padding: 20px;
+        flex-shrink: 1;
+    }
+    .fa-filter{
+        font-size: 15px;
+        color: white;
+        padding: 20px;
+        flex-shrink: 1;
+    }
+    .fa-lock{
+        font-size: 15px;
+        color: white;
+        padding: 20px;
+        flex-shrink: 1;
+    }
+}
